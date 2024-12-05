@@ -44,3 +44,5 @@ With features such as automated time tracking, real-time attendance data, and de
 
 ## Output ##
 Refer to the PDF Uploaded for the result and more detailed information
+[Attendance Management System.pdf](https://github.com/user-attachments/files/18029677/Attendance.Management.System.pdf)
+
