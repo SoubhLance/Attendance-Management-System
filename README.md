@@ -24,13 +24,18 @@ With features such as automated time tracking, real-time attendance data, and de
 - JSON: Used for generating and processing QR codes.
 - Swing (Javax.Swing): Java's GUI framework for building the user interface.
 
-## Installation
-
 ### Prerequisites
 - Java Development Kit (JDK)
 - MySQL: Install and set up MySQL server on your machine.
 - XAMPP: Optional, for easier MySQL and PHPMyAdmin setup.
 - OpenCV Library: Required for facial recognition.
+
+## Future Enhancements ##
+- Biometric Authentication: Integrating additional biometric features such as fingerprint recognition for enhanced security.
+- Mobile App: Developing a mobile app to simplify attendance tracking for remote workers and students.
+- Machine Learning: Implementing predictive analytics to identify attendance trends and provide insights.
+
+
 
 ## Architecture Design ##
 ![image](https://github.com/user-attachments/assets/5e9f40e5-d14a-4c4c-8d71-b5bf375db24a)
@@ -45,4 +50,17 @@ With features such as automated time tracking, real-time attendance data, and de
 ## Output ##
 Refer to the PDF Uploaded for the result and more detailed information
 [Attendance Management System.pdf](https://github.com/user-attachments/files/18029677/Attendance.Management.System.pdf)
+
+
+
+## Screenshots ##
+
+
+- ##Login Page ##
+![image](https://github.com/user-attachments/assets/9c72c735-8041-4ba0-ba1d-47e7e23e4e3b)
+
+
+- ##Attendance Dashboard ##
+![image](https://github.com/user-attachments/assets/c3eaefd0-9085-4176-bab4-cbf279633055)
+
 
